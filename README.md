@@ -131,8 +131,6 @@ The following scenarios are verified:
 * SystemVerilog
 * UVM
 * QuestaSim
-* APB
-* UART 16550
 
 ## Author
 
